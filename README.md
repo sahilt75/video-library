@@ -29,11 +29,11 @@ This project can run with Python3.8+
 
 ## Screenshots
 List API
-![Alt text](.//screenshots/list.png "List API")
+![Alt text](./screenshots/list.png "List API")
 
 Search API
-![Alt text](.//screenshots/search.png?raw=true "Search API")
+![Alt text](./screenshots/search.png?raw=true "Search API")
 
 
 Dashboard
-![Alt text](.//screenshots/dashboard.png?raw=true "Dashboard")
+![Alt text](./screenshots/dashboard.png?raw=true "Dashboard")
