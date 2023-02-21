@@ -32,7 +32,7 @@ List API
 <img width="1361" alt="image" src="https://user-images.githubusercontent.com/21974202/220396822-cb249ca3-0afe-49e0-a693-d945f7e457ea.png">
 
 Search API
-<img width="1340" alt="image" src="https://user-images.githubusercontent.com/21974202/220396982-33a6be1f-dbe3-4bae-a623-d3913eb234b7.png">
+<img width="1426" alt="image" src="https://user-images.githubusercontent.com/21974202/220397174-afaa3780-b15e-4de2-8978-9c3821edb1d8.png">
 
 Dashboard
 <img width="1503" alt="image" src="https://user-images.githubusercontent.com/21974202/220396769-55ac914b-933e-4366-8ad1-99620b3bb59f.png">
