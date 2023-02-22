@@ -3,14 +3,12 @@ from .models import Video
 from .serializers import VideoSerializer
 from rest_framework import permissions
 
-
 class VideoListSet(viewsets.ModelViewSet):
     """
     API endpoint that returns list of videos
     """
     queryset = Video.objects.all().order_by('-published_at')
     serializer_class = VideoSerializer
-    # permission_classes = [permissions.IsAuthenticated]
 
 class VideoSearchListView(generics.ListAPIView, viewsets.GenericViewSet):
     """
